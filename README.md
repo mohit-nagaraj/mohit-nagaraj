@@ -1,4 +1,4 @@
-# 💫 About Me: ![](https://visitcount.itsvg.in/api?id=mohit-nagaraj&icon=5&color=3)
+# 💫 About Me: <img src="https://visitcount.itsvg.in/api?id=mohit-nagaraj&icon=5&color=3">
 
 - 🌱 I’m currently learning DSA & Web dev
 - 🤔 I’m looking for starting big projects
@@ -15,14 +15,23 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 # 📊 GitHub Stats:
-| |
-| :---: |
-| ![](https://github-readme-streak-stats.herokuapp.com?user=mohit-nagaraj&theme=neon-palenight&hide_border=true&card_width=705) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit-nagaraj&theme=2077) |
-
-| | |
-| :---: | :---: |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit-nagaraj&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohit-nagaraj&theme=aura_dark) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-nagaraj&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit-nagaraj&theme=2077">
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit-nagaraj&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohit-nagaraj&theme=aura_dark"></td>
+  </tr>
+</table>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohit-nagaraj&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
