@@ -2,7 +2,8 @@
 
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=mohit-nagaraj&label=Profile+views&style=for-the-badge&color=green)
 
-- 🌱 I’m currently learning DSA & Web dev
+- 🌱 I’m currently learning DSA & Flutter
+- 💪 Practising web dev regularly
 - 🤔 I’m looking for starting big projects
 - 💬 Ask me about anything
 - 😄 Pronouns: He</br> 
