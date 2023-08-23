@@ -1,4 +1,4 @@
-# 💫 About Me: <img src="https://visitcount.itsvg.in/api?id=mohit-nagaraj&icon=5&color=3">
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=mohit-nagaraj&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning DSA & Web dev
 - 🤔 I’m looking for starting big projects
