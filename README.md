@@ -1,10 +1,10 @@
-# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=mohit-nagaraj&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+# 💫 About Me: ![](https://komarev.com/ghpvc/?username=mohit-nagaraj&label=Profile+views&style=for-the-badge&color=green)
 
 - 🌱 I’m currently learning DSA & Web dev
 - 🤔 I’m looking for starting big projects
 - 💬 Ask me about anything
 - 😄 Pronouns: He</br> 
-
+![](https://hit.yhype.me/github/profile?user_id=105775899)
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 🌐 Socials:
