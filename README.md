@@ -4,19 +4,12 @@
 - 🌱 I’m currently learning Devops
 - 💪 Building projects in Fullstack & golang
 - 🤔 I’m looking for people to grow along with
-- 💬 Ask me about `(fill_in_the_blank)`
-- 😄 Pronouns: He</br> 
+- 💬 Ask me about `anything u wanna know over a coffee`
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-nagaraj) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit_nagaraj) 
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmohit_nagaraj)](https://twitter.com/mohit_nagaraj) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohitnagaraj) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Glad_Yesterday4204) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20807037) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mohitnagaraj) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-nagaraj) [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmohit_nagaraj)](https://twitter.com/mohit_nagaraj) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Glad_Yesterday4204)
 
 ### ⚒️ Tech Stack:
 ![javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
@@ -50,8 +43,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mohit-nagaraj&theme=neon-palenight&hide_border=true&card_width=705">
-     </td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=mohit-nagaraj&theme=neon-palenight&hide_border=true&card_width=705" alt="" />
+    </td>
    </tr>
   <tr>
     <td>
